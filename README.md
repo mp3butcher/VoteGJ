@@ -5,6 +5,10 @@
 
 Le vote est un outil de décision collective de l’Assemblée Générale.
 
+Un sujet de vote est composé :
+    • soit d’une proposition à laquelle on souhaite donner une réponse binaire (pour/contre) ;
+    • soit de plusieurs propositions à pondérer à l’issue du vote.
+      
 Les décisions individuelles, comme des actions, n’ont pas besoin d’être votées.
 
 Il faut limiter le nombre de votes pour éviter que cela ne pollue les temps de réunions. Il y a d’ailleurs l’outil du sondage qui permet d’évaluer les positions. S’il n’y a pas d’objection à une proposition, elle est actée et passe directement à l’étape de la mise en œuvre.
