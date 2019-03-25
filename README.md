@@ -29,6 +29,8 @@ Suite à la présentation de la proposition, l’assemblée décide si elle est 
 S’il n’y a pas d’objection, le vote a lieu directement.
 
 Dans le cas contraire, il y a débat contradictoire sur la proposition et si possible le vote est reporté à l’après-pause pour que les indécis puissent poser des questions, discuter avant de voter.
+On donne le temps à l’assemblée d'exprimer ses arguments et/ou ses propositions alternatives.
+On demande aux personnes opposées à une proposition si elles veulent apporter une amélioration, ce qu’il faudrait ajouter ou retrancher pour qu’elles l’acceptent.
 
 Si après ce temps, la majorité n’est toujours pas prête à voter, le vote est reporté à une prochaine assemblée.
 
@@ -36,10 +38,6 @@ Si une majorité refuse de voter, la proposition est annulée.
 
 
 ## ÉTAPE 3 : DÉROULEMENT DU VOTE
-
-Pour chaque vote, on donne le temps aux « pour » et aux « contre » d'exprimer leurs arguments et/ou leurs propositions alternatives. 
-
-On demande aux personnes opposées à une proposition si elles veulent apporter une amélioration, ce qu’il faudrait ajouter ou retrancher pour qu’elles l’acceptent.
 
 Si le vote porte sur une seule proposition, on demande : qui refuse le vote, qui s’abstient (n’a pas d’avis sur la question), qui est contre, qui est pour.
 
