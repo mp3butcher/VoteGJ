@@ -48,6 +48,23 @@ Dans les cas d’un ensemble de propositions, si un point précis fait débat et
 
 ## ÉTAPE 4: RÉSULTATS
 
+Important :
+1)Dans ce qui suit, l’ensemble des votants tiennent compte de l’ensemble des suffrages (blancs et refus de votes compris). Cela signifie que ceux qui se positionnent blancs ou refusent le vote expriment un refus de toutes les propositions en lice. 
+2Les pourcentages sont exprimés au prorata du nombre de propositions en concurrence.
+(X÷N% avec N:nombre de propositions)
+Ex : 
+si une seule proposition est à voter      50÷1% = 50%
+si 2 proposition sont en concurrence    50÷2% = 25%
+
+
+S’il y a plus de 50 % sur l’ensemble des votants qui privilégie positivement une proposition, celle-ci est jugée satisfaisant pour devenir une décision de l’assemblée. A ce titre, elle devient une revendication officiel des gilets jaunes, jusqu’à ce que prochain projet sujet de vote vienne la remettre en question.
+
+S’y a entre 25 % et 50 %  sur l’ensemble des votants qui privilégie positivement une proposition, une débat est lancé pour définir :
+    • si cette proposition pourrait faire l’objet d’un futur vote et si à ce titre un groupe de travail doit réitérer une réflexion sur cette dernière ;
+    • si la proposition est rejetée.
+
+Si la proposition recueille moins de 25 % des suffrages, celle-ci est rejetée et son affectation à un groupe de travail n’est pas évoquée.
+
 
 S’il y a plus de X% pour une proposition, elle est validée. Dans le cas d’un vote sur plusieurs options, ce pourcentage est à redéfinir. 
 Si la proposition majoritaire n’obtient pas X%, la question est redébattue et représentée à une prochaine Assemblée Générale. Si au deuxième vote, la proposition majoritaire n’obtient toujours pas X%, le résultat du vote est une « non-décision ».
