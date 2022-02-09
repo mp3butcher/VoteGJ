@@ -11,7 +11,7 @@ Il faut limiter le nombre de votes pour éviter que cela ne pollue les temps de 
 
 ## ÉTAPE 1 : PRÉSENTATION DU SUJET DE VOTE
 
-Afin que la décision issue du vote soit acceptée par la totalité des participants, il est important de garantir l’expression de tous les points de vue sur une question. Pour cela, en règle générale, un projet de vote doit être annoncé dans la proposition d’ordre du jour de l’AG. 
+Afin que la décision issue du vote soit acceptée par la totalité des participants, il est important de garantir l’expression de tous les points de vue sur une question sans pour autant manipuler le sens du débat. Pour cela, en règle générale, un projet de vote doit être annoncé dans la proposition d’ordre du jour de l’AG. 
 
 Les sujets de vote sont transmis à l’équipe organisatrice de l’AG par les commissions, les ronds-points ou par toute personne souhaitant faire une proposition afin qu’elle soit inscrite à l’ordre du jour. Les questions ajoutées à l’ordre du jour en début de réunion peuvent être débattues mais ne sont soumises au vote qu’à l’AG suivante sauf si la question a été reconnue urgente par l’assemblée.
 
